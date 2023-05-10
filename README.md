@@ -1,6 +1,6 @@
 ## Eai, é o Gabriel
 
-👨🏻‍💻 Cursando Analise e Desenvolvimento de Sistemas e criando Pokédex com HTML, CSS e JS :3
+👨🏻‍💻 Cursando Analise e Desenvolvimento de Sistemas :3
 
 <div align = "center">
   <a href="https://github.com/GabrielSeverino177"/>
