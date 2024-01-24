@@ -1,14 +1,14 @@
-## Eai, é o Gabriel
+# Eai, é o Gabriel aqui ✌️
 
-👨🏻‍💻 Cursando Analise e Desenvolvimento de Sistemas :3
+### Hmm...Sobre mim? 🤔
 
-<div align = "center">
-  <a href="https://github.com/GabrielSeverino177"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=GabrielSeverino177&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height"180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielSeverino177&layout=compact&langs_count=7"/>
-</div>
-<div style="display: inline_block"><br>
-<img align="center" alt="Gabriel-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-<img align="center" alt="Gabriel-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-<img align="center" alt="Gabriel-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-</div>
+* Gosto de Jujustu Kaisen, Inteligencia Artificial, Ciência de Dados e IOT 🤞🖥️📊
+* Graduando em Análise e Desenvolvimento de Sistemas
+* Quero contribuir com projetos Python por aqui
+
+#### FERRAMENTAS E TECNOLOGIAS
+<img loading="lazy" img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40" height="40"/> <img loading="lazy" img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" height="40"/> 
+            <img loading="lazy" img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40"/>
+
+#### ESTOU APRENDENDO
+<img loading="lazy" img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40"/> <img loading="lazy" img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="40" height="40"/>
