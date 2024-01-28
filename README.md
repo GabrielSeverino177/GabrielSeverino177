@@ -18,6 +18,6 @@
 
 <div>
 <a href="https://github.com/GabrielSeverino177">
-<img loading="lazy" height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielSeverino177&layout=compact&theme=transparent"/>
-<img loading="lazy" height="150em" src="https://github-readme-stats.vercel.app/api?username=GabrielSeverino177&show_icons=true&theme=transparent&include_all_commits=true&count_private=true"/>
+<img loading="lazy" height="130em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielSeverino177&layout=compact&theme=transparent"/>
+<img loading="lazy" height="130em" src="https://github-readme-stats.vercel.app/api?username=GabrielSeverino177&show_icons=true&theme=transparent&include_all_commits=true&count_private=true"/>
 </div>
